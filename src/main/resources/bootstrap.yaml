@@ -1,6 +1,6 @@
 spring:
   application:
-    name: microservicio-eureka-server
+    name: microservice-eureka-server
  # cloud:
   #  config:
    #   enabled: true
